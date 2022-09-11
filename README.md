@@ -10,7 +10,7 @@ Account Invoice Product Multi Batch Add
 ## app_account_superbar
 Browse journal by account chart... Use for parent children tree list kanban navigator. 
 ztree widget.Hierarchy Tree.Parent Children relation tree..
-财务模块多层级树状导航应用
+
 
 ## app_account_superbar_chinese
 Browse journal by account chart... Use for parent children tree list kanban navigator. 
